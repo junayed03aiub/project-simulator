@@ -1,0 +1,4 @@
+Card Serial: 8
+Title: Monitor Platform Activities
+Type: Admin
+Description: Admin monitors all platform activities
